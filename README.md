@@ -1,3 +1,22 @@
+<h1 align="center">🌦️ Weather App</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20d6c480-92dd-4b95-aaf4-f106175bbfdd"width="900" />
+  <img src="https://github.com/user-attachments/assets/11385a93-79e0-46a4-9a65-95d7522188ed"width="900" />
+  <img src="https://github.com/user-attachments/assets/c31e84c7-53f7-4fed-858d-895fa5f6a2da"width="900" />
+   
+  
+</p>
+
+<p align="center">
+  Real-time weather information with temperature, humidity, wind speed, and city search.
+</p>
+
+
+
+
+
+
 # Weather App 🌤️
 
 A simple desktop weather app built with Python and Tkinter.
